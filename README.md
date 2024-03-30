@@ -1,5 +1,6 @@
 # CSC336_HW8
-![](image_url)
+
+![Alt text](336.png)
 
 
 
